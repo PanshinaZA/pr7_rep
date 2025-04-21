@@ -8,6 +8,7 @@
 
    Установлено соединение с PostgreSQL через psycopg2.
    Создана база данных medical_db и таблицы: Hospital, Doctor, Patients
+   ![1](https://github.com/user-attachments/assets/f5ea485c-5442-492b-a3bd-5c379aca4d02)
 - `create_db_and_tables.sql` — SQL скрипт для создания базы данных и таблиц.
 2. Создание ERD диаграммы
 - `erd_diagram.png` — ERD диаграмма схемы базы данных.
