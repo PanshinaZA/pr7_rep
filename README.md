@@ -14,6 +14,7 @@
 2. Создание ERD диаграммы
 - `erd_diagram.png` — ERD диаграмма схемы базы данных.
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
+![5](https://github.com/user-attachments/assets/36686655-94b6-47cd-9099-ddf1884c0031)
 4. Вывод данных с опредленными условиями(например, пациенты старше 50), обновление данных(например, диагноз пациента) через внешние приложения.
 ![3](https://github.com/user-attachments/assets/7cdc6677-a3c9-4ecc-9db0-553d8236a6b9)
 ![4](https://github.com/user-attachments/assets/65097a5c-dc75-4c88-9c17-ab65b3e87089)
