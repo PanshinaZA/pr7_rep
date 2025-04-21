@@ -8,13 +8,15 @@
 
    Установлено соединение с PostgreSQL через psycopg2.
    Создана база данных medical_db и таблицы: Hospital, Doctor, Patients
-   ![1](https://github.com/user-attachments/assets/f5ea485c-5442-492b-a3bd-5c379aca4d02)
-   ![2](https://github.com/user-attachments/assets/91073c8b-a041-4730-9859-f9155552ae03)
+![1](https://github.com/user-attachments/assets/f5ea485c-5442-492b-a3bd-5c379aca4d02)
+![2](https://github.com/user-attachments/assets/91073c8b-a041-4730-9859-f9155552ae03)
 - `create_db_and_tables.sql` — SQL скрипт для создания базы данных и таблиц.
 2. Создание ERD диаграммы
 - `erd_diagram.png` — ERD диаграмма схемы базы данных.
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
 4. Вывод данных с опредленными условиями(например, пациенты старше 50), обновление данных(например, диагноз пациента) через внешние приложения.
+![3](https://github.com/user-attachments/assets/7cdc6677-a3c9-4ecc-9db0-553d8236a6b9)
+![4](https://github.com/user-attachments/assets/65097a5c-dc75-4c88-9c17-ab65b3e87089)
 5. Выполнены все индивидуальные задания варианта 17.
 - `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий.
 6. Визуализация данных
