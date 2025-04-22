@@ -20,6 +20,7 @@
 ![11](https://github.com/user-attachments/assets/468daf02-6808-4a76-9b3e-e5d44e435ca1)
 
 Получаем csv файл - `patients_over_50.csv`, файл находится в репозитории.
+
 5. Выполнены все индивидуальные задания варианта 17.
   - Создайте таблицу "Patients" с полями "ID", "NAME", "AGE", "DIAGNOSIS".
   - Вставьте 10 пациентов в таблицу "Patients".
