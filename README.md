@@ -26,9 +26,9 @@
 ![3](https://github.com/user-attachments/assets/5922c031-03be-4077-ac93-32fd5dbb7a6c)
   - Обновите диагноз пациента с ID=2.
 ![4](https://github.com/user-attachments/assets/e7b1038f-da61-41a6-8b4d-e118b2b215c6)
-- `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий, файл находится в репозитории.
 6. Визуализация данных(индивидуальное задание 5)
   - Создайте линейный график для анализа возраста пациентов по диагнозам.
+- `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий, файл находится в репозитории.
 ## Как запустить:
 1. Установите PostgreSQL и настройте доступ к базе данных.
 2. Выполните SQL-скрипт `create_db_and_tables.sql` для создания базы данных и таблиц.
