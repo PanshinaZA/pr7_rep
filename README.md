@@ -32,6 +32,7 @@
 ![4](https://github.com/user-attachments/assets/e7b1038f-da61-41a6-8b4d-e118b2b215c6)
 6. Визуализация данных(индивидуальное задание 5)
   - Создайте линейный график для анализа возраста пациентов по диагнозам.
+![9](https://github.com/user-attachments/assets/04f66ab3-37c7-4df1-9875-8cb1f194bb7f)
 - `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий, файл находится в репозитории.
 ## Как запустить:
 1. Установите PostgreSQL и настройте доступ к базе данных.
