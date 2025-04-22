@@ -18,6 +18,7 @@
 4. Экспорт данных. Используем модуль Python `csv` для сохранения листа пациентов старше 50.
 ![10](https://github.com/user-attachments/assets/c684e684-47cc-4e21-b874-5e6e9d983b0b)
 ![11](https://github.com/user-attachments/assets/468daf02-6808-4a76-9b3e-e5d44e435ca1)
+![12](https://github.com/user-attachments/assets/a8352c11-fc23-443b-ae4e-6c922562ec85)
 
 Получаем csv файл - `patients_over_50.csv`, файл находится в репозитории.
 
