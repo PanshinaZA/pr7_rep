@@ -10,7 +10,7 @@
    Создана база данных medical_db и таблицы: Hospital, Doctor, Patients
 ![1](https://github.com/user-attachments/assets/f5ea485c-5442-492b-a3bd-5c379aca4d02)
 ![2](https://github.com/user-attachments/assets/91073c8b-a041-4730-9859-f9155552ae03)
-- `create_db_and_tables.sql` — SQL скрипт для создания базы данных и таблиц.
+- `create_db_and_tables.sql` — SQL скрипт для создания базы данных и таблиц, файл находится в репозитории.
 2. Создание ERD диаграммы
   ![erd_diagram](https://github.com/user-attachments/assets/40a68eb2-6cfd-422d-92ee-3aa2980f2dc8)
 - `erd_diagram.png` — ERD диаграмма схемы базы данных, файл находится в репозитории.
