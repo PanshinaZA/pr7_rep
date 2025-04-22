@@ -16,8 +16,8 @@
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
 ![5](https://github.com/user-attachments/assets/297bc501-925e-4c07-ae52-9bb9e6e618af)
 4. Экспорт данных. Используем модуль Python `csv` для сохранения листа пациентов старше 50.
-![6](https://github.com/user-attachments/assets/f72aba54-5365-4e61-a681-8b69ee45437f)
-![7](https://github.com/user-attachments/assets/9e435a0b-6701-4ec1-9055-67793fa4de12)
+![10](https://github.com/user-attachments/assets/c684e684-47cc-4e21-b874-5e6e9d983b0b)
+![11](https://github.com/user-attachments/assets/468daf02-6808-4a76-9b3e-e5d44e435ca1)
 Получаем csv файл - `patients_over_50.csv`, файл находится в репозитории.
 5. Выполнены все индивидуальные задания варианта 17.
   - Создайте таблицу "Patients" с полями "ID", "NAME", "AGE", "DIAGNOSIS".
