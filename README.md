@@ -17,19 +17,18 @@
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
 ![5](https://github.com/user-attachments/assets/297bc501-925e-4c07-ae52-9bb9e6e618af)
 4. Вывод данных с опредленными условиями(например, пациенты старше 50), обновление данных(например, диагноз пациента) через внешние приложения.
-![3](https://github.com/user-attachments/assets/5922c031-03be-4077-ac93-32fd5dbb7a6c)
-![4](https://github.com/user-attachments/assets/e7b1038f-da61-41a6-8b4d-e118b2b215c6)
+
 5. Выполнены все индивидуальные задания варианта 17.
-  1. Создайте таблицу "Patients" с полями "ID", "NAME", "AGE", "DIAGNOSIS".
-  2. Вставьте 10 пациентов в таблицу "Patients".
-  
-  3. Выведите всех пациентов старше 50 лет.
-  
-  4. Обновите диагноз пациента с ID=2.
-  
-- `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий.
+  - Создайте таблицу "Patients" с полями "ID", "NAME", "AGE", "DIAGNOSIS".
+  - Вставьте 10 пациентов в таблицу "Patients".
+![5](https://github.com/user-attachments/assets/297bc501-925e-4c07-ae52-9bb9e6e618af)
+  - Выведите всех пациентов старше 50 лет.
+![3](https://github.com/user-attachments/assets/5922c031-03be-4077-ac93-32fd5dbb7a6c)
+  - Обновите диагноз пациента с ID=2.
+![4](https://github.com/user-attachments/assets/e7b1038f-da61-41a6-8b4d-e118b2b215c6)
+- `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий, файл находится в репозитории.
 6. Визуализация данных(индивидуальное задание 5)
-  5. Создайте линейный график для анализа возраста пациентов по диагнозам.
+  - Создайте линейный график для анализа возраста пациентов по диагнозам.
 ## Как запустить:
 1. Установите PostgreSQL и настройте доступ к базе данных.
 2. Выполните SQL-скрипт `create_db_and_tables.sql` для создания базы данных и таблиц.
