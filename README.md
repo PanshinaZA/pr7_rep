@@ -12,7 +12,8 @@
 ![2](https://github.com/user-attachments/assets/91073c8b-a041-4730-9859-f9155552ae03)
 - `create_db_and_tables.sql` — SQL скрипт для создания базы данных и таблиц.
 2. Создание ERD диаграммы
-- `erd_diagram.png` — ERD диаграмма схемы базы данных.
+  ![erd_diagram](https://github.com/user-attachments/assets/40a68eb2-6cfd-422d-92ee-3aa2980f2dc8)
+- `erd_diagram.png` — ERD диаграмма схемы базы данных, файл находится в репозитории.
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
 ![5](https://github.com/user-attachments/assets/36686655-94b6-47cd-9099-ddf1884c0031)
 4. Вывод данных с опредленными условиями(например, пациенты старше 50), обновление данных(например, диагноз пациента) через внешние приложения.
