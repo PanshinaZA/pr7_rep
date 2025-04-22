@@ -22,7 +22,7 @@
 5. Выполнены все индивидуальные задания варианта 17.
   - Создайте таблицу "Patients" с полями "ID", "NAME", "AGE", "DIAGNOSIS".
   - Вставьте 10 пациентов в таблицу "Patients".
-![5](https://github.com/user-attachments/assets/297bc501-925e-4c07-ae52-9bb9e6e618af)
+![8](https://github.com/user-attachments/assets/5d802330-3926-4454-b1e0-d1f15ae1e3e3)
   - Выведите всех пациентов старше 50 лет.
 ![3](https://github.com/user-attachments/assets/5922c031-03be-4077-ac93-32fd5dbb7a6c)
   - Обновите диагноз пациента с ID=2.
