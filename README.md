@@ -28,7 +28,7 @@
 ![8](https://github.com/user-attachments/assets/5d802330-3926-4454-b1e0-d1f15ae1e3e3)
 
   - Выведите всех пациентов старше 50 лет.
-![3](https://github.com/user-attachments/assets/5922c031-03be-4077-ac93-32fd5dbb7a6c)
+![3](https://github.com/user-attachments/assets/29dcee6e-27a7-4f1c-a81d-7021a80a884a)
 Среда VS Code не позволяет при выводе увидеть все данные, потому сохраним результат в csv-файл - `patients_over_50.csv`
   - Обновите диагноз пациента с ID=2.
 ![4](https://github.com/user-attachments/assets/e7b1038f-da61-41a6-8b4d-e118b2b215c6)
