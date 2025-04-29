@@ -53,11 +53,8 @@ CREATE TABLE Patients (
             Patient_name VARCHAR(100) NOT NULL,
             Age INTEGER,
             Diagnosis VARCHAR(100),
-            Hospital_Id serial
+            Hospital_Id INT REFERENCES Hospital(Hospital_id)
 );
-ALTER TABLE Patients
-ADD CONSTRAINT fk_hospital
-FOREIGN KEY (Hospital_Id) REFERENCES Hospital(Hospital_Id);
 --Вставка данных в таблицу patients
 INSERT INTO Patients (Patient_Id, Patient_Name, Age, Diagnosis, Hospital_Id)
     VALUES
