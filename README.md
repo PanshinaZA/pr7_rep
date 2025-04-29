@@ -16,10 +16,10 @@
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
 ![5](https://github.com/user-attachments/assets/297bc501-925e-4c07-ae52-9bb9e6e618af)
 4. Экспорт данных. Данные успешно загружены в файл.
-![image](https://github.com/user-attachments/assets/91cbbe3a-f7db-4e0e-abe7-b841f474aed9)
-![12](https://github.com/user-attachments/assets/a8352c11-fc23-443b-ae4e-6c922562ec85)
+![image](https://github.com/user-attachments/assets/ab7e76f3-7785-4d9f-876e-a70938d9cef0)
+![image](https://github.com/user-attachments/assets/5579cefd-7657-4a26-b31f-ba83c1698c61)
 
-Получаем csv файл - `patients_over_50.csv`, файл находится в репозитории.
+Получаем csv файл - `age_diagnosis.csv`, файл находится в репозитории.
 
 5. Индивидуальные задания. Вариант 17.
   - Создайте таблицу "Patients" с полями "ID", "NAME", "AGE", "DIAGNOSIS".
@@ -27,15 +27,17 @@
 ![8](https://github.com/user-attachments/assets/5d802330-3926-4454-b1e0-d1f15ae1e3e3)
 
   - Выведите всех пациентов старше 50 лет.
-![3](https://github.com/user-attachments/assets/29dcee6e-27a7-4f1c-a81d-7021a80a884a)
-Среда VS Code не позволяет при выводе увидеть все данные, потому сохраним результат в csv-файл - `patients_over_50.csv`
+![image](https://github.com/user-attachments/assets/ad8800da-03ca-4ebd-a0d5-f09fd8c4af60)
+
   - Обновите диагноз пациента с ID=2.
 ![4](https://github.com/user-attachments/assets/e7b1038f-da61-41a6-8b4d-e118b2b215c6)
 6. Визуализация данных(индивидуальное задание 5)
   - Создайте линейный график для анализа возраста пациентов по диагнозам.
 
-     Для выполнения задания используем библиотеку `matplotlib`.
-![9](https://github.com/user-attachments/assets/04f66ab3-37c7-4df1-9875-8cb1f194bb7f)
+     Для выполнения задания сохраним данные о возрасте и диагнозе всех пациентов в CSV-файл. Затем загрузим его на платформе Yandex Datalens и построим линейный график:
+![image](https://github.com/user-attachments/assets/de6a8bff-6526-4bce-870e-b508ebccacba)
+
+https://datalens.yandex/kwmms0g0gkso6 - ссылка на чарт в Yandex Datalens.
 - `Panshina_Zinaida_Alekseevna.ipynb` — Jupyter Notebook с выполнением всех заданий, файл находится в репозитории.
 ## Выводы:
 В ходе выполнения лабораторной работы были успешно освоены методы импорта и экспорта данных через внешния приложения. Работа была произведена в среде Visual Studio Code, где был написан весь python-скрипт с использованием библиотек psycopg2 и matplotlib.
