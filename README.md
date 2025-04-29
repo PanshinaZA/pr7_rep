@@ -15,7 +15,7 @@
 - `erd_diagram.png` — ERD диаграмма схемы базы данных, файл находится в репозитории.
 3. Импорт данных: добавлены новые данные в таблицы Hospital, Patients через psycopg2 с помощью sql-запросов.
 ![5](https://github.com/user-attachments/assets/297bc501-925e-4c07-ae52-9bb9e6e618af)
-4. Экспорт данных. Используем модуль Python `csv` для сохранения листа пациентов старше 50.
+4. Экспорт данных. Данные успешно загружены в файл.
 ![image](https://github.com/user-attachments/assets/91cbbe3a-f7db-4e0e-abe7-b841f474aed9)
 ![12](https://github.com/user-attachments/assets/a8352c11-fc23-443b-ae4e-6c922562ec85)
 
